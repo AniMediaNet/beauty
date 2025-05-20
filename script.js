@@ -1,4 +1,6 @@
-
+ <!-- Firebase SDKs -->
+  <script src="https://www.gstatic.com/firebasejs/10.8.1/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.8.1/firebase-firestore-compat.js"></script>
     const appZayavki = firebase.initializeApp({
       apiKey: "AIzaSyC7dvYmljzcd59vWGRZZ5HpPL4G0q_LvlA",
       authDomain: "zayavki-my.firebaseapp.com",
